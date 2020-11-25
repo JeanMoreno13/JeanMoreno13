@@ -5,6 +5,7 @@ I am a French web front developer and I live in the south of France near Aix en 
 ## CONNECT WITH ME 
 
 Personal website: www.cyf13.com 
+
 LinkedIn Profil: https://www.linkedin.com/in/jean-moreno13/
 
 ## ABOUT ME
@@ -16,7 +17,7 @@ LinkedIn Profil: https://www.linkedin.com/in/jean-moreno13/
 ## MY COMPETENCES 💪
 
 - HTML5 / CSS3
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+- Javascript / jQuery
 - React.js
 - Typescript 
 
