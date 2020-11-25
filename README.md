@@ -2,9 +2,8 @@
 
 I am a French web front developer and I live in the south of France near Aix en Provence. You can find my projects here. This is my playground 🏋️‍.  
 
-[<img align="left" alt="cyf13.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img align="left" alt="cyf13.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" href="www.cyf13.com" target="_blank"/>]
 
-Oh wait, here is my personal website www.cyf.com 
 
 🤙 and here is my LinkedIn https://www.linkedin.com/in/jean-moreno13/
 
@@ -17,5 +16,3 @@ Oh wait, here is my personal website www.cyf.com
 - Javascript / jQuery
 - React.js
 - Typescript 
-
-[website]: www.cyf13.com
