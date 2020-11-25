@@ -23,3 +23,6 @@ LinkedIn Profil: https://www.linkedin.com/in/jean-moreno13/
 
 ## SOME STATS OF MY PROFILE
 <img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=JeanMoreno13&show_icons=true&theme=highcontrast">
+
+## TOP LANGUAGES
+<img align="left" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanMoreno13">
